@@ -1,4 +1,6 @@
-$(".main").click(function(){
-    $(this).children(".hide").slideToggle();
-    $(this).children(".show img-fluid").toggle();
+$(document).ready(function(){
+$(".icons").click(function(){
+    $(this).children(".hide").slideToggle('slow');
+    $(this).children(".show").toggle('slow');
+});
 });
