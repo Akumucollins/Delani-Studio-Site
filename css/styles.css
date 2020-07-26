@@ -30,7 +30,44 @@ h3 {
   font-size: 1.5vw;
   color: whitesmoke;
 }
-.hide{
-    display: none;
+.hide {
+  display: none;
 }
-
+.row-card-one {
+  display: inline-flex;
+}
+.row-card-two {
+  display: inline-flex;
+}
+.col-md-3 {
+  margin: 10px 0;
+  position: relative;
+  overflow: hidden;
+}
+.col-md-3:hover img {
+  transform: scale(1.2);
+  transition: all 0.3s ease;
+}
+.subtitle-port {
+  position: absolute;
+  width: 100%;
+  min-height: 100%;
+  background: rgba(0, 0, 0 , 0.8);
+  cursor: pointer;
+  display: none;
+  transition: all 0.7s ease;
+}
+.whitebox{
+    padding: 5% 0;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 50px 10px;
+    font-weight: 100%;
+    padding-top: 30px;
+    border: 4px solid whitesmoke;
+    font-size: 1.1em;
+    line-height: 90%;
+    margin: 20% 5%;
+    overflow: hidden;
+    letter-spacing: 2px;
+}
