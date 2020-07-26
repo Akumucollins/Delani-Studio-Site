@@ -2,6 +2,12 @@
     background-image: url("/assets/backgrounds/h_img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 120vh;
-    padding-top: 17%;
+    height: 118vh;
+    padding-top: 16%;
+}
+#bottom{
+    margin-top: 13%;
+}
+h3{
+    font-weight: bold;
 }
