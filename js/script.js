@@ -4,3 +4,8 @@ $(".icons").click(function(){
     $(this).children(".show").toggle('slow');
 });
 });
+$(document).ready(function(){
+    $(".card").hover(function(){
+        $(this).children(".portfolio").fadeToggle('slow')
+    });
+});
