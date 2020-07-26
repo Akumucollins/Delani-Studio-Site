@@ -1,13 +1,32 @@
-#container-one{
-    background-image: url("/assets/backgrounds/h_img.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 118vh;
-    padding-top: 16%;
+#container-one {
+  background-image: url("/assets/backgrounds/h_img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 118vh;
+  padding-top: 16%;
 }
-#bottom{
-    margin-top: 13%;
+#bottom {
+  margin-top: 12%;
 }
-h3{
-    font-weight: bold;
+h3 {
+  font-weight: bold;
+}
+#container-one p {
+  font-size: 1.6vw;
+}
+#container-two p {
+  font-size: 1.5vw;
+}
+#container-three {
+  background-image: url("/assets/backgrounds/s_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+}
+#services {
+  margin-top: 5%;
+}
+#container-three p {
+  font-size: 1.5vw;
+  color: whitesmoke;
 }
