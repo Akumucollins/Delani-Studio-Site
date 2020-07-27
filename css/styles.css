@@ -1,3 +1,6 @@
+body{
+  font-family: 'Lora', serif;
+}
 #container-one {
   background-image: url("../assets/backgrounds/h_img.jpg");
   background-repeat: no-repeat;
@@ -5,11 +8,15 @@
   height: 118vh;
   padding-top: 16%;
 }
+h1{
+  font-family: 'New Rocker', cursive;
+}
 #bottom {
   margin-top: 12%;
 }
 h3 {
   font-weight: bold;
+  font-family: 'New Rocker', cursive;
 }
 #container-one p {
   font-size: 1.6vw;
@@ -33,6 +40,9 @@ h3 {
 .hide {
   display: none;
 }
+h6{
+  font-family: 'New Rocker', cursive;
+}
 .card {
   margin: 10px 0;
   position: relative;
@@ -52,7 +62,6 @@ h3 {
   transition: all 0.7s ease;
 }
 .portfoliotag {
-  padding: 5% 0;
   color: white;
   background-color: rgba(0, 0, 0, 0.8);
   padding: 50px 10px;
@@ -64,6 +73,7 @@ h3 {
   overflow: hidden;
   letter-spacing: 2px;
   font-weight: 100%;
+  font-family: 'New Rocker', cursive;
 }
 
 #container-six{
@@ -110,4 +120,7 @@ button{
     margin: -3px;
     padding: 3px;
     background: gray;
+}
+.copyright p{
+  font-family: 'New Rocker', cursive;
 }
