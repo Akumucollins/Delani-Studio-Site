@@ -51,14 +51,14 @@ h3 {
   display: none;
   transition: all 0.7s ease;
 }
-.ptag {
+.portfoliotag {
   padding: 5% 0;
   color: white;
   background-color: rgba(0, 0, 0, 0.8);
   padding: 50px 10px;
   padding-top: 30px;
   border: 2px solid whitesmoke;
-  font-size: 1em;
+  font-size: 1.2em;
   line-height: 90%;
   margin: 20% 5%;
   overflow: hidden;
