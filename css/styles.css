@@ -1,5 +1,5 @@
 #container-one {
-  background-image: url("/assets/backgrounds/h_img.jpg");
+  background-image: url("../assets/backgrounds/h_img.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 118vh;
@@ -18,7 +18,7 @@ h3 {
   font-size: 1.5vw;
 }
 #container-three {
-  background-image: url("/assets/backgrounds/s_image.jpg");
+  background-image: url("../assets/backgrounds/s_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 60vh;
@@ -67,7 +67,7 @@ h3 {
 }
 
 #container-six{
-    background-image: url("/assets/backgrounds/c_image.jpg");
+    background-image: url("../assets/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 85vh;
