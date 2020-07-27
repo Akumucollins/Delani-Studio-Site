@@ -64,8 +64,39 @@ h3 {
   overflow: hidden;
   letter-spacing: 2px;
 }
-.card img {
-  -webkit-box-shadow: none;
-  -moz-box-shadow: none;
-   box-shadow: none;
+
+#container-six{
+    background-image: url("/assets/backgrounds/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85vh;
+}
+.services{
+    margin-top: 5%;
+}
+#nameInput{
+    background-color: transparent;
+    outline: none;
+    box-shadow: none;
+    color: whitesmoke;
+}
+#messageInput{
+    background-color: transparent;
+    outline: none;
+    box-shadow: none;
+    color: whitesmoke;
+
+}
+#emailInput{
+    background-color: transparent;
+    outline: none;
+    box-shadow: none;
+    color: whitesmoke;
+}
+.form-control::placeholder{ 
+    color: white;
+}
+button{
+    border: none;
+    width: 100%;
 }
