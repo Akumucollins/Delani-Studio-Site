@@ -32,7 +32,6 @@ $(document).ready(function () {
   event.preventDefault();
 });
 
-// $(document).ready(function () {
 $("button").click(function (event) {
   var customer = document.getElementById("name").value;
   alert(
@@ -45,4 +44,3 @@ $("button").click(function (event) {
   event.preventDefault();
 });
 
-// });
