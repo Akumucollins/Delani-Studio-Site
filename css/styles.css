@@ -74,20 +74,20 @@ h3 {
 .services{
     margin-top: 5%;
 }
-#nameInput{
+#name{
     background-color: transparent;
     outline: none;
     box-shadow: none;
     color: whitesmoke;
 }
-#messageInput{
+#message{
     background-color: transparent;
     outline: none;
     box-shadow: none;
     color: whitesmoke;
 
 }
-#emailInput{
+#email{
     background-color: transparent;
     outline: none;
     box-shadow: none;
