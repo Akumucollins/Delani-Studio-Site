@@ -1,6 +1,9 @@
-body{
-  font-family: 'Lora', serif;
+/*Here is the body custom css */
+body {
+  font-family: "Lora", serif;
 }
+
+/*Here is the first container custom css */
 #container-one {
   background-image: url("../assets/backgrounds/h_img.jpg");
   background-repeat: no-repeat;
@@ -8,22 +11,26 @@ body{
   height: 118vh;
   padding-top: 16%;
 }
-h1{
-  font-family: 'New Rocker', cursive;
+h1 {
+  font-family: "New Rocker", cursive;
 }
 #bottom {
   margin-top: 12%;
 }
 h3 {
   font-weight: bold;
-  font-family: 'New Rocker', cursive;
+  font-family: "New Rocker", cursive;
 }
 #container-one p {
   font-size: 1.6vw;
 }
+
+/*Here is the second container custom css */
 #container-two p {
   font-size: 1.5vw;
 }
+
+/*Here is the third container custom css */
 #container-three {
   background-image: url("../assets/backgrounds/s_image.jpg");
   background-repeat: no-repeat;
@@ -37,12 +44,22 @@ h3 {
   font-size: 1.5vw;
   color: whitesmoke;
 }
+
+/*Here is the fourth container custom css */
 .hide {
   display: none;
 }
-h6{
-  font-family: 'New Rocker', cursive;
+h6 {
+  font-family: "New Rocker", cursive;
 }
+#design {
+  margin-top: -0.5%;
+}
+#product {
+  margin-top: -1.2%;
+}
+
+/*Here is the fifth container custom css */
 .card {
   margin: 10px 0;
   position: relative;
@@ -73,60 +90,59 @@ h6{
   overflow: hidden;
   letter-spacing: 2px;
   font-weight: 100%;
-  font-family: 'New Rocker', cursive;
+  font-family: "New Rocker", cursive;
 }
 
-#container-six{
-    background-image: url("../assets/backgrounds/c_image.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 85vh;
-    padding-top: 3%;
+/*Here is the sixth container custom css */
+#container-six {
+  background-image: url("../assets/backgrounds/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85vh;
+  padding-top: 3%;
 }
-.services{
-    margin-top: 5%;
-}
-input{
+input {
   width: 50%;
 }
-#name{
-    background-color: transparent;
-    outline: none;
-    box-shadow: none;
-    color: whitesmoke;
+#name {
+  background-color: transparent;
+  outline: none;
+  box-shadow: none;
+  color: whitesmoke;
 }
-#message{
-    background-color: transparent;
-    outline: none;
-    box-shadow: none;
-    color: whitesmoke;
+#message {
+  background-color: transparent;
+  outline: none;
+  box-shadow: none;
+  color: whitesmoke;
+}
+#email {
+  background-color: transparent;
+  outline: none;
+  box-shadow: none;
+  color: whitesmoke;
+}
+.form-control::placeholder {
+  color: white;
+  width: 100%;
+}
+.button {
+  border: none;
+  width: 100%;
+  padding: 4px;
+}
 
-}
-#email{
-    background-color: transparent;
-    outline: none;
-    box-shadow: none;
-    color: whitesmoke;
-}
-.form-control::placeholder{ 
-    color: white;
-    width: 100%;
-}
-.button{
-    border: none;
-    width: 100%;
-    padding: 4px;
-}
+/*Here is the footer container custom css */
 #social-icons img {
-    border-radius: 50%;
-    transition: 0.2s ease-out;
+  border-radius: 50%;
+  transition: 0.2s ease-out;
 }
 #social-icons img:hover {
-    box-shadow: 0 0 20px rgb(0, 0, 0);
-    margin: -3px;
-    padding: 3px;
-    background: gray;
+  box-shadow: 0 0 20px rgb(0, 0, 0);
+  margin: -3px;
+  padding: 3px;
+  background: gray;
 }
-.copyright p{
-  font-family: 'New Rocker', cursive;
+.copyright p {
+  font-family: "New Rocker", cursive;
 }
