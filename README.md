@@ -2,16 +2,20 @@
 
 # Delani Studio Site
 
-#### Delani Fictional studio website is a design practice that offers a full range of services including brand strategy, interaction and visual design and user experience testing. , Monday July 27 2020
+#### Delani Fictional studio website is a design practice that offers a full range of services including brand strategy, interaction and visual design and user experience testing ; **Monday July 27 2020** ;
 
 ***
 
-#### By **Akumu Collins**;
+#### By **Akumu Collins** ;
+
+### Here is the **WebPage Screenshoot** ;
+
+![alt text](assets/backgrounds/Screen_shoot.png "Here is the WebPage Screenshoot")
 
 ---
 
 ## Description
-The project gives  details  for **Delani Fictional Studio** as par what the do, their portfolio, about them, their works and brands. They also approve users message by giving an 
+This project gives  details  for **Delani Fictional Studio** as par what the do, their portfolio, about them, their works and brands. They also approve users message by giving an 
 alert that their message has been received and ready to be responded to.
 ***
 
