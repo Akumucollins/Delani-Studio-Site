@@ -23,9 +23,9 @@ $(document).ready(function() {
     var email = $("input#email").val();
     var message = $("textarea#message").val();
     if(name && email){
-      alert(  " Dear " + name + " we have warmly received your message. " + " Thank you for reaching out to us " + ". We are looking forward to replay to you soon.");
+      alert(  " Dear " + name + ", Thank you for reaching out to us ." + " We have warmly received your message.");
     } else{
-      alert(" The field form is Incomplete.");
+      alert(" There's an incomplete in this form. Please try again");
     }
   });
 });
